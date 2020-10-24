@@ -1,0 +1,1 @@
+https://jstobigdata.com/rabbitmq/introduction-to-rabbitmq/
